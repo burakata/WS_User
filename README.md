@@ -5,4 +5,4 @@
 	a basic React app using TypeScript
 
 
-PS : Check inner ReadMe files
+Please check inner ReadMe files
