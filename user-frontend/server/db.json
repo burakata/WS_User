@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "John",
+      "email": "johnskyler@gmail.com",
+      "birth_date": "1985-11-18",
+      "_id": "5f145f6d2b6112162060a36f"
+    }
+  ]
+}
