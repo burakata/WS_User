@@ -1,2 +1,8 @@
 # WS_User
-basic JSON-based REST API using TypeScript, basic React app using TypeScript
+
+a basic JSON-based REST API using TypeScript
+
+a basic React app using TypeScript
+
+
+PS : Check inner ReadMe files
